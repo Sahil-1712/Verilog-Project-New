@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/bin_to_grey/bin_to_grey.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_to_gray
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/bin_to_grey/bin_to_grey_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_bin_to_gray
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/bin_to_grey/bin_to_grey.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
