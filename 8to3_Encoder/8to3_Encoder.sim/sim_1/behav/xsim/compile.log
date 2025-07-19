@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/8to3_Encoder/8to3_Encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/8to3_Encoder/8to3_Encoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder_tb

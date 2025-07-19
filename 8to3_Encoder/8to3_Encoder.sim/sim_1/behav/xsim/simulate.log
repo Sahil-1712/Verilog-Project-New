@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Time=0 in=00000000 out=000 valid=0
+Time=10000 in=00000001 out=000 valid=1
+Time=20000 in=00000010 out=001 valid=1
+Time=30000 in=00000100 out=010 valid=1
+Time=40000 in=00001000 out=011 valid=1
+Time=50000 in=00010000 out=100 valid=1
+Time=60000 in=00100000 out=101 valid=1
+Time=70000 in=01000000 out=110 valid=1
+Time=80000 in=10000000 out=111 valid=1
+Time=90000 in=11111111 out=111 valid=1
+$finish called at time : 100 ns : File "D:/Vivado/8to3_Encoder/8to3_Encoder_tb.v" Line 45
